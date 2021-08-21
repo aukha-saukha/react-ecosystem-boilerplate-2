@@ -1,0 +1,16 @@
+{
+  "description": "Boilerplate for React ecosystem",
+  "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "husky": "^7.0.1",
+    "lint-staged": "^11.1.2"
+  },
+  "license": "MIT",
+  "name": "react-ecosystem-boilerplate",
+  "repository": "https://github.com/aukha-saukha/react-ecosystem-boilerplate",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "version": "1.0.1"
+}
