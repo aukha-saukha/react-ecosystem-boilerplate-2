@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "coenraads.bracket-pair-colorizer",
+    "editorconfig.editorconfig",
     "sirtori.indenticator"
   ]
 }
