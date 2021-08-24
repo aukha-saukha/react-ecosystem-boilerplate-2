@@ -1,6 +1,7 @@
 module.exports = {
-  // Placeholder for now.
-  "*.js": (filenames) => {
-    return "";
+  '*.js': (filenames) => {
+    return filenames.map((filename) => {
+      return `prettier --check '${filename}'`;
+    });
   },
 };
