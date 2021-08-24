@@ -2,6 +2,7 @@
   "recommendations": [
     "coenraads.bracket-pair-colorizer",
     "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
     "sirtori.indenticator"
   ]
 }
